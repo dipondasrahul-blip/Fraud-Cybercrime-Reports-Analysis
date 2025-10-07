@@ -1,0 +1,1501 @@
+Year,State,Crime Type,# of Complaints,Losses (USD)
+2020,California,BEC,1360,121710520
+2020,California,Phishing,1600,4565438
+2020,California,Ransomware,144,4503068
+2020,California,Extortion,266,1982962
+2020,California,Tech Support,1641,1228276
+2020,California,Non-Payment/Non-Delivery,990,898720
+2020,Texas,BEC,1376,84861057
+2020,Texas,Phishing,2275,3834493
+2020,Texas,Ransomware,222,9008945
+2020,Texas,Extortion,301,4979115
+2020,Texas,Tech Support,1527,1347317
+2020,Texas,Non-Payment/Non-Delivery,1024,1787377
+2020,Florida,BEC,1024,106612010
+2020,Florida,Phishing,2346,4823252
+2020,Florida,Ransomware,167,7383208
+2020,Florida,Extortion,338,4536345
+2020,Florida,Tech Support,1181,751917
+2020,Florida,Non-Payment/Non-Delivery,947,1634327
+2020,New York,BEC,1069,97877634
+2020,New York,Phishing,1393,3207145
+2020,New York,Ransomware,220,14312035
+2020,New York,Extortion,323,5068825
+2020,New York,Tech Support,1135,723950
+2020,New York,Non-Payment/Non-Delivery,925,1308061
+2020,Pennsylvania,BEC,1073,81088302
+2020,Pennsylvania,Phishing,1382,2495453
+2020,Pennsylvania,Ransomware,192,6247892
+2020,Pennsylvania,Extortion,373,3585863
+2020,Pennsylvania,Tech Support,1751,1648149
+2020,Pennsylvania,Non-Payment/Non-Delivery,1070,1949880
+2020,Illinois,BEC,1006,72656762
+2020,Illinois,Phishing,2219,7641739
+2020,Illinois,Ransomware,172,11149167
+2020,Illinois,Extortion,308,2805740
+2020,Illinois,Tech Support,1105,1182745
+2020,Illinois,Non-Payment/Non-Delivery,1085,1001858
+2020,Ohio,BEC,1360,127032824
+2020,Ohio,Phishing,1524,5172301
+2020,Ohio,Ransomware,166,11473817
+2020,Ohio,Extortion,219,2576033
+2020,Ohio,Tech Support,1161,1008003
+2020,Ohio,Non-Payment/Non-Delivery,1252,2223448
+2020,Georgia,BEC,976,81976859
+2020,Georgia,Phishing,1768,3528594
+2020,Georgia,Ransomware,119,4665346
+2020,Georgia,Extortion,206,1599628
+2020,Georgia,Tech Support,961,504860
+2020,Georgia,Non-Payment/Non-Delivery,1080,1670847
+2020,North Carolina,BEC,1304,95661781
+2020,North Carolina,Phishing,2014,3400944
+2020,North Carolina,Ransomware,147,7156105
+2020,North Carolina,Extortion,294,2394574
+2020,North Carolina,Tech Support,1166,641220
+2020,North Carolina,Non-Payment/Non-Delivery,983,1382351
+2020,Michigan,BEC,897,64214296
+2020,Michigan,Phishing,1723,4831791
+2020,Michigan,Ransomware,113,7577178
+2020,Michigan,Extortion,211,2494239
+2020,Michigan,Tech Support,1545,1116328
+2020,Michigan,Non-Payment/Non-Delivery,815,1501356
+2020,New Jersey,BEC,1138,119177461
+2020,New Jersey,Phishing,1841,3460703
+2020,New Jersey,Ransomware,114,5892410
+2020,New Jersey,Extortion,191,2249439
+2020,New Jersey,Tech Support,1249,1367528
+2020,New Jersey,Non-Payment/Non-Delivery,755,741072
+2020,Virginia,BEC,944,56425637
+2020,Virginia,Phishing,1708,4807586
+2020,Virginia,Ransomware,134,5114829
+2020,Virginia,Extortion,212,1792763
+2020,Virginia,Tech Support,1170,1262277
+2020,Virginia,Non-Payment/Non-Delivery,962,2015693
+2020,Washington,BEC,816,43205073
+2020,Washington,Phishing,1176,2633127
+2020,Washington,Ransomware,174,7325519
+2020,Washington,Extortion,286,2080679
+2020,Washington,Tech Support,1037,566508
+2020,Washington,Non-Payment/Non-Delivery,760,1361084
+2020,Arizona,BEC,833,73351257
+2020,Arizona,Phishing,1640,4117741
+2020,Arizona,Ransomware,176,5929781
+2020,Arizona,Extortion,207,2153243
+2020,Arizona,Tech Support,1456,1389588
+2020,Arizona,Non-Payment/Non-Delivery,821,849118
+2020,Massachusetts,BEC,1030,80067479
+2020,Massachusetts,Phishing,1556,3671496
+2020,Massachusetts,Ransomware,128,8817644
+2020,Massachusetts,Extortion,213,2043838
+2020,Massachusetts,Tech Support,1292,956185
+2020,Massachusetts,Non-Payment/Non-Delivery,670,1298142
+2020,Tennessee,BEC,1065,49508848
+2020,Tennessee,Phishing,1309,4063751
+2020,Tennessee,Ransomware,159,5782498
+2020,Tennessee,Extortion,211,3258366
+2020,Tennessee,Tech Support,1282,902247
+2020,Tennessee,Non-Payment/Non-Delivery,987,916328
+2020,Indiana,BEC,794,39037204
+2020,Indiana,Phishing,1290,2966170
+2020,Indiana,Ransomware,134,4638231
+2020,Indiana,Extortion,179,1354541
+2020,Indiana,Tech Support,964,656246
+2020,Indiana,Non-Payment/Non-Delivery,798,1579565
+2020,Missouri,BEC,634,28594336
+2020,Missouri,Phishing,1402,4739497
+2020,Missouri,Ransomware,106,3476688
+2020,Missouri,Extortion,193,2618724
+2020,Missouri,Tech Support,1264,856918
+2020,Missouri,Non-Payment/Non-Delivery,728,1139534
+2020,Maryland,BEC,912,78102837
+2020,Maryland,Phishing,1422,3287877
+2020,Maryland,Ransomware,111,5238703
+2020,Maryland,Extortion,226,2585698
+2020,Maryland,Tech Support,1007,1064153
+2020,Maryland,Non-Payment/Non-Delivery,609,755491
+2020,Wisconsin,BEC,865,81401177
+2020,Wisconsin,Phishing,1424,4433091
+2020,Wisconsin,Ransomware,90,4900586
+2020,Wisconsin,Extortion,197,2507108
+2020,Wisconsin,Tech Support,908,577624
+2020,Wisconsin,Non-Payment/Non-Delivery,523,1010712
+2020,Colorado,BEC,912,50664519
+2020,Colorado,Phishing,1271,3323425
+2020,Colorado,Ransomware,92,5709213
+2020,Colorado,Extortion,251,2571761
+2020,Colorado,Tech Support,913,858526
+2020,Colorado,Non-Payment/Non-Delivery,841,1206916
+2020,Minnesota,BEC,920,55707373
+2020,Minnesota,Phishing,1317,4023895
+2020,Minnesota,Ransomware,97,3210635
+2020,Minnesota,Extortion,165,2602554
+2020,Minnesota,Tech Support,733,677385
+2020,Minnesota,Non-Payment/Non-Delivery,515,667984
+2020,South Carolina,BEC,554,38895570
+2020,South Carolina,Phishing,1240,1908439
+2020,South Carolina,Ransomware,115,3477121
+2020,South Carolina,Extortion,211,3325309
+2020,South Carolina,Tech Support,906,751549
+2020,South Carolina,Non-Payment/Non-Delivery,559,686185
+2020,Alabama,BEC,670,57451503
+2020,Alabama,Phishing,926,3091991
+2020,Alabama,Ransomware,109,5850652
+2020,Alabama,Extortion,136,1156369
+2020,Alabama,Tech Support,638,439904
+2020,Alabama,Non-Payment/Non-Delivery,584,720602
+2020,Louisiana,BEC,661,32993401
+2020,Louisiana,Phishing,1132,2205638
+2020,Louisiana,Ransomware,130,7822012
+2020,Louisiana,Extortion,143,1882569
+2020,Louisiana,Tech Support,818,687889
+2020,Louisiana,Non-Payment/Non-Delivery,694,931815
+2020,Kentucky,BEC,845,43831816
+2020,Kentucky,Phishing,1353,3595420
+2020,Kentucky,Ransomware,104,4770082
+2020,Kentucky,Extortion,126,1911859
+2020,Kentucky,Tech Support,892,913575
+2020,Kentucky,Non-Payment/Non-Delivery,471,866245
+2020,Oregon,BEC,618,30366915
+2020,Oregon,Phishing,744,2339628
+2020,Oregon,Ransomware,122,8010886
+2020,Oregon,Extortion,129,1837532
+2020,Oregon,Tech Support,672,718069
+2020,Oregon,Non-Payment/Non-Delivery,568,1009467
+2020,Oklahoma,BEC,746,75403675
+2020,Oklahoma,Phishing,966,2346816
+2020,Oklahoma,Ransomware,86,4280414
+2020,Oklahoma,Extortion,154,2288315
+2020,Oklahoma,Tech Support,907,946244
+2020,Oklahoma,Non-Payment/Non-Delivery,564,565542
+2020,Connecticut,BEC,593,35235725
+2020,Connecticut,Phishing,1071,3304962
+2020,Connecticut,Ransomware,75,2979915
+2020,Connecticut,Extortion,138,1696965
+2020,Connecticut,Tech Support,817,576114
+2020,Connecticut,Non-Payment/Non-Delivery,478,499408
+2020,Utah,BEC,449,45821641
+2020,Utah,Phishing,756,1866108
+2020,Utah,Ransomware,109,5872007
+2020,Utah,Extortion,170,1595252
+2020,Utah,Tech Support,497,278823
+2020,Utah,Non-Payment/Non-Delivery,385,668706
+2020,Iowa,BEC,666,34069402
+2020,Iowa,Phishing,771,1835702
+2020,Iowa,Ransomware,61,2995659
+2020,Iowa,Extortion,129,1643383
+2020,Iowa,Tech Support,528,443634
+2020,Iowa,Non-Payment/Non-Delivery,635,996751
+2020,Nevada,BEC,555,32490381
+2020,Nevada,Phishing,818,1713469
+2020,Nevada,Ransomware,75,4113081
+2020,Nevada,Extortion,149,1370019
+2020,Nevada,Tech Support,689,436490
+2020,Nevada,Non-Payment/Non-Delivery,380,547429
+2020,Arkansas,BEC,442,27530541
+2020,Arkansas,Phishing,970,2788526
+2020,Arkansas,Ransomware,87,4662467
+2020,Arkansas,Extortion,104,1292491
+2020,Arkansas,Tech Support,744,424847
+2020,Arkansas,Non-Payment/Non-Delivery,528,949739
+2020,Mississippi,BEC,421,30784310
+2020,Mississippi,Phishing,724,1810683
+2020,Mississippi,Ransomware,54,3541153
+2020,Mississippi,Extortion,126,1017669
+2020,Mississippi,Tech Support,685,586194
+2020,Mississippi,Non-Payment/Non-Delivery,496,606812
+2020,Kansas,BEC,522,39743947
+2020,Kansas,Phishing,636,1508445
+2020,Kansas,Ransomware,86,3776986
+2020,Kansas,Extortion,124,1084245
+2020,Kansas,Tech Support,545,591283
+2020,Kansas,Non-Payment/Non-Delivery,421,423387
+2020,New Mexico,BEC,337,23337419
+2020,New Mexico,Phishing,883,2859802
+2020,New Mexico,Ransomware,48,2134616
+2020,New Mexico,Extortion,115,884979
+2020,New Mexico,Tech Support,409,311001
+2020,New Mexico,Non-Payment/Non-Delivery,304,495716
+2020,Nebraska,BEC,328,15029113
+2020,Nebraska,Phishing,550,1829222
+2020,Nebraska,Ransomware,47,1699465
+2020,Nebraska,Extortion,89,874414
+2020,Nebraska,Tech Support,624,481942
+2020,Nebraska,Non-Payment/Non-Delivery,302,455986
+2020,West Virginia,BEC,464,42391275
+2020,West Virginia,Phishing,559,1406150
+2020,West Virginia,Ransomware,50,3174951
+2020,West Virginia,Extortion,104,897157
+2020,West Virginia,Tech Support,420,406660
+2020,West Virginia,Non-Payment/Non-Delivery,431,485471
+2020,Idaho,BEC,375,36135291
+2020,Idaho,Phishing,517,1504705
+2020,Idaho,Ransomware,50,3084787
+2020,Idaho,Extortion,72,605661
+2020,Idaho,Tech Support,391,406437
+2020,Idaho,Non-Payment/Non-Delivery,329,302159
+2020,Hawaii,BEC,408,20191795
+2020,Hawaii,Phishing,467,1347486
+2020,Hawaii,Ransomware,60,3418457
+2020,Hawaii,Extortion,106,1494566
+2020,Hawaii,Tech Support,490,428835
+2020,Hawaii,Non-Payment/Non-Delivery,335,702465
+2020,Maine,BEC,301,27277276
+2020,Maine,Phishing,387,1117656
+2020,Maine,Ransomware,34,1096322
+2020,Maine,Extortion,75,922439
+2020,Maine,Tech Support,439,259907
+2020,Maine,Non-Payment/Non-Delivery,263,312705
+2020,New Hampshire,BEC,230,19153083
+2020,New Hampshire,Phishing,508,1234697
+2020,New Hampshire,Ransomware,44,2097444
+2020,New Hampshire,Extortion,76,1249096
+2020,New Hampshire,Tech Support,339,205942
+2020,New Hampshire,Non-Payment/Non-Delivery,258,350270
+2020,Rhode Island,BEC,235,14737753
+2020,Rhode Island,Phishing,464,703514
+2020,Rhode Island,Ransomware,46,3055535
+2020,Rhode Island,Extortion,79,1157121
+2020,Rhode Island,Tech Support,374,331900
+2020,Rhode Island,Non-Payment/Non-Delivery,264,480734
+2020,Montana,BEC,192,19047210
+2020,Montana,Phishing,345,540521
+2020,Montana,Ransomware,28,1205925
+2020,Montana,Extortion,50,618915
+2020,Montana,Tech Support,296,299404
+2020,Montana,Non-Payment/Non-Delivery,259,533762
+2020,Delaware,BEC,265,13756198
+2020,Delaware,Phishing,278,895238
+2020,Delaware,Ransomware,41,2549523
+2020,Delaware,Extortion,63,613544
+2020,Delaware,Tech Support,243,221202
+2020,Delaware,Non-Payment/Non-Delivery,233,239993
+2020,South Dakota,BEC,142,9184613
+2020,South Dakota,Phishing,339,1067073
+2020,South Dakota,Ransomware,26,901342
+2020,South Dakota,Extortion,35,291016
+2020,South Dakota,Tech Support,239,184109
+2020,South Dakota,Non-Payment/Non-Delivery,200,280590
+2020,North Dakota,BEC,137,11548457
+2020,North Dakota,Phishing,292,457106
+2020,North Dakota,Ransomware,24,1541232
+2020,North Dakota,Extortion,47,745245
+2020,North Dakota,Tech Support,154,92627
+2020,North Dakota,Non-Payment/Non-Delivery,185,186851
+2020,Alaska,BEC,159,7637518
+2020,Alaska,Phishing,303,796634
+2020,Alaska,Ransomware,25,1336383
+2020,Alaska,Extortion,31,267112
+2020,Alaska,Tech Support,127,140941
+2020,Alaska,Non-Payment/Non-Delivery,136,150877
+2020,Vermont,BEC,90,5984508
+2020,Vermont,Phishing,209,386334
+2020,Vermont,Ransomware,21,725465
+2020,Vermont,Extortion,30,363812
+2020,Vermont,Tech Support,149,75655
+2020,Vermont,Non-Payment/Non-Delivery,135,170364
+2020,Wyoming,BEC,73,6996167
+2020,Wyoming,Phishing,125,414925
+2020,Wyoming,Ransomware,11,395266
+2020,Wyoming,Extortion,26,324069
+2020,Wyoming,Tech Support,155,103653
+2020,Wyoming,Non-Payment/Non-Delivery,87,151565
+2021,California,BEC,1532,119618734
+2021,California,Phishing,2167,5043968
+2021,California,Ransomware,199,6726883
+2021,California,Extortion,386,6312832
+2021,California,Tech Support,1668,1688573
+2021,California,Non-Payment/Non-Delivery,977,1316191
+2021,Texas,BEC,1036,81534238
+2021,Texas,Phishing,2102,5950091
+2021,Texas,Ransomware,251,8046518
+2021,Texas,Extortion,309,3939137
+2021,Texas,Tech Support,1810,1850283
+2021,Texas,Non-Payment/Non-Delivery,1286,2334253
+2021,Florida,BEC,1596,125538075
+2021,Florida,Phishing,2324,6473265
+2021,Florida,Ransomware,253,14607928
+2021,Florida,Extortion,295,2999044
+2021,Florida,Tech Support,1169,668295
+2021,Florida,Non-Payment/Non-Delivery,921,1528681
+2021,New York,BEC,1518,102573786
+2021,New York,Phishing,1713,5041687
+2021,New York,Ransomware,207,13524073
+2021,New York,Extortion,381,5208307
+2021,New York,Tech Support,1745,1515582
+2021,New York,Non-Payment/Non-Delivery,1003,1039690
+2021,Pennsylvania,BEC,1143,92112146
+2021,Pennsylvania,Phishing,1859,4258089
+2021,Pennsylvania,Ransomware,140,9493814
+2021,Pennsylvania,Extortion,375,3881240
+2021,Pennsylvania,Tech Support,1787,1005507
+2021,Pennsylvania,Non-Payment/Non-Delivery,993,1886724
+2021,Illinois,BEC,966,86478715
+2021,Illinois,Phishing,1998,6441991
+2021,Illinois,Ransomware,199,11065527
+2021,Illinois,Extortion,302,2672694
+2021,Illinois,Tech Support,1499,1601910
+2021,Illinois,Non-Payment/Non-Delivery,1377,1959211
+2021,Ohio,BEC,950,60435650
+2021,Ohio,Phishing,1812,2994798
+2021,Ohio,Ransomware,191,12651249
+2021,Ohio,Extortion,353,4728877
+2021,Ohio,Tech Support,1161,703860
+2021,Ohio,Non-Payment/Non-Delivery,1294,1281608
+2021,Georgia,BEC,1315,118700775
+2021,Georgia,Phishing,1903,5301726
+2021,Georgia,Ransomware,165,7036516
+2021,Georgia,Extortion,300,3032122
+2021,Georgia,Tech Support,1097,578647
+2021,Georgia,Non-Payment/Non-Delivery,811,1539307
+2021,North Carolina,BEC,1448,73004960
+2021,North Carolina,Phishing,1792,4674669
+2021,North Carolina,Ransomware,220,14599639
+2021,North Carolina,Extortion,246,2894445
+2021,North Carolina,Tech Support,1078,1076942
+2021,North Carolina,Non-Payment/Non-Delivery,1376,2071511
+2021,Michigan,BEC,1003,104772538
+2021,Michigan,Phishing,1994,4477933
+2021,Michigan,Ransomware,166,9487880
+2021,Michigan,Extortion,315,2467317
+2021,Michigan,Tech Support,1550,993979
+2021,Michigan,Non-Payment/Non-Delivery,1335,2600494
+2021,New Jersey,BEC,1200,120005744
+2021,New Jersey,Phishing,1997,4560980
+2021,New Jersey,Ransomware,214,11204372
+2021,New Jersey,Extortion,258,3517344
+2021,New Jersey,Tech Support,1563,1662979
+2021,New Jersey,Non-Payment/Non-Delivery,1132,1510307
+2021,Virginia,BEC,915,59936105
+2021,Virginia,Phishing,1476,2671398
+2021,Virginia,Ransomware,195,11862822
+2021,Virginia,Extortion,341,4622091
+2021,Virginia,Tech Support,1434,1034058
+2021,Virginia,Non-Payment/Non-Delivery,1198,1976326
+2021,Washington,BEC,1231,85741017
+2021,Washington,Phishing,1486,4043689
+2021,Washington,Ransomware,190,9758484
+2021,Washington,Extortion,321,5096887
+2021,Washington,Tech Support,1445,1604009
+2021,Washington,Non-Payment/Non-Delivery,861,1294503
+2021,Arizona,BEC,860,80044975
+2021,Arizona,Phishing,1462,3598247
+2021,Arizona,Ransomware,199,12703302
+2021,Arizona,Extortion,233,2036186
+2021,Arizona,Tech Support,1289,979617
+2021,Arizona,Non-Payment/Non-Delivery,807,1582975
+2021,Massachusetts,BEC,989,74294102
+2021,Massachusetts,Phishing,2134,4159331
+2021,Massachusetts,Ransomware,120,6719811
+2021,Massachusetts,Extortion,206,3297442
+2021,Massachusetts,Tech Support,1484,1382410
+2021,Massachusetts,Non-Payment/Non-Delivery,671,619201
+2021,Tennessee,BEC,810,66041572
+2021,Tennessee,Phishing,1877,3946021
+2021,Tennessee,Ransomware,145,7962301
+2021,Tennessee,Extortion,302,3904465
+2021,Tennessee,Tech Support,1227,1153218
+2021,Tennessee,Non-Payment/Non-Delivery,652,775017
+2021,Indiana,BEC,1079,82445390
+2021,Indiana,Phishing,1988,4999134
+2021,Indiana,Ransomware,152,9869855
+2021,Indiana,Extortion,230,2216059
+2021,Indiana,Tech Support,1380,875362
+2021,Indiana,Non-Payment/Non-Delivery,687,1224388
+2021,Missouri,BEC,710,46372113
+2021,Missouri,Phishing,1827,4438232
+2021,Missouri,Ransomware,154,5450691
+2021,Missouri,Extortion,301,3015131
+2021,Missouri,Tech Support,954,650610
+2021,Missouri,Non-Payment/Non-Delivery,814,1263032
+2021,Maryland,BEC,1069,66456152
+2021,Maryland,Phishing,1108,2397545
+2021,Maryland,Ransomware,129,7705467
+2021,Maryland,Extortion,218,2608054
+2021,Maryland,Tech Support,1392,905776
+2021,Maryland,Non-Payment/Non-Delivery,804,1304846
+2021,Wisconsin,BEC,931,47626119
+2021,Wisconsin,Phishing,1282,3468121
+2021,Wisconsin,Ransomware,150,7182777
+2021,Wisconsin,Extortion,280,4699028
+2021,Wisconsin,Tech Support,1388,732900
+2021,Wisconsin,Non-Payment/Non-Delivery,753,1355307
+2021,Colorado,BEC,645,52538071
+2021,Colorado,Phishing,1035,2041010
+2021,Colorado,Ransomware,121,3786744
+2021,Colorado,Extortion,214,2305064
+2021,Colorado,Tech Support,1102,787762
+2021,Colorado,Non-Payment/Non-Delivery,692,644318
+2021,Minnesota,BEC,863,44932664
+2021,Minnesota,Phishing,1527,5333399
+2021,Minnesota,Ransomware,158,6005127
+2021,Minnesota,Extortion,161,2548198
+2021,Minnesota,Tech Support,784,861803
+2021,Minnesota,Non-Payment/Non-Delivery,843,824392
+2021,South Carolina,BEC,1013,55158169
+2021,South Carolina,Phishing,1476,4556991
+2021,South Carolina,Ransomware,97,5983214
+2021,South Carolina,Extortion,206,2578832
+2021,South Carolina,Tech Support,1166,656520
+2021,South Carolina,Non-Payment/Non-Delivery,560,1175727
+2021,Alabama,BEC,813,56557167
+2021,Alabama,Phishing,1008,2806954
+2021,Alabama,Ransomware,132,4637606
+2021,Alabama,Extortion,206,1843050
+2021,Alabama,Tech Support,925,476804
+2021,Alabama,Non-Payment/Non-Delivery,578,632540
+2021,Louisiana,BEC,653,64448197
+2021,Louisiana,Phishing,1063,3627703
+2021,Louisiana,Ransomware,124,6366051
+2021,Louisiana,Extortion,157,1362801
+2021,Louisiana,Tech Support,1047,728792
+2021,Louisiana,Non-Payment/Non-Delivery,514,480100
+2021,Kentucky,BEC,809,49251397
+2021,Kentucky,Phishing,1247,3464144
+2021,Kentucky,Ransomware,120,6681154
+2021,Kentucky,Extortion,159,2190370
+2021,Kentucky,Tech Support,679,394615
+2021,Kentucky,Non-Payment/Non-Delivery,660,1074474
+2021,Oregon,BEC,812,84676498
+2021,Oregon,Phishing,1088,2438295
+2021,Oregon,Ransomware,97,3385385
+2021,Oregon,Extortion,143,1428003
+2021,Oregon,Tech Support,923,1011717
+2021,Oregon,Non-Payment/Non-Delivery,766,1352261
+2021,Oklahoma,BEC,560,40884987
+2021,Oklahoma,Phishing,1111,3766807
+2021,Oklahoma,Ransomware,132,7040056
+2021,Oklahoma,Extortion,152,2381909
+2021,Oklahoma,Tech Support,820,397891
+2021,Oklahoma,Non-Payment/Non-Delivery,495,877639
+2021,Connecticut,BEC,618,29706927
+2021,Connecticut,Phishing,986,1624004
+2021,Connecticut,Ransomware,115,7246432
+2021,Connecticut,Extortion,177,2931260
+2021,Connecticut,Tech Support,938,785117
+2021,Connecticut,Non-Payment/Non-Delivery,479,723743
+2021,Utah,BEC,475,41712367
+2021,Utah,Phishing,1039,2818309
+2021,Utah,Ransomware,86,3675743
+2021,Utah,Extortion,171,1722423
+2021,Utah,Tech Support,916,726847
+2021,Utah,Non-Payment/Non-Delivery,570,764956
+2021,Iowa,BEC,785,49816625
+2021,Iowa,Phishing,1195,1856186
+2021,Iowa,Ransomware,117,8059226
+2021,Iowa,Extortion,130,1664237
+2021,Iowa,Tech Support,794,774743
+2021,Iowa,Non-Payment/Non-Delivery,656,615252
+2021,Nevada,BEC,458,32729739
+2021,Nevada,Phishing,896,2079396
+2021,Nevada,Ransomware,109,6968923
+2021,Nevada,Extortion,164,1507238
+2021,Nevada,Tech Support,773,557462
+2021,Nevada,Non-Payment/Non-Delivery,518,678990
+2021,Arkansas,BEC,650,55799089
+2021,Arkansas,Phishing,779,1468047
+2021,Arkansas,Ransomware,87,5886369
+2021,Arkansas,Extortion,162,1488758
+2021,Arkansas,Tech Support,605,507420
+2021,Arkansas,Non-Payment/Non-Delivery,571,597408
+2021,Mississippi,BEC,499,46957221
+2021,Mississippi,Phishing,1008,1596806
+2021,Mississippi,Ransomware,61,3430571
+2021,Mississippi,Extortion,112,1385478
+2021,Mississippi,Tech Support,716,393731
+2021,Mississippi,Non-Payment/Non-Delivery,411,700262
+2021,Kansas,BEC,550,28056532
+2021,Kansas,Phishing,803,2442350
+2021,Kansas,Ransomware,78,3609551
+2021,Kansas,Extortion,155,2084001
+2021,Kansas,Tech Support,537,479742
+2021,Kansas,Non-Payment/Non-Delivery,351,413711
+2021,New Mexico,BEC,580,57880394
+2021,New Mexico,Phishing,943,3175878
+2021,New Mexico,Ransomware,86,4284120
+2021,New Mexico,Extortion,152,2373743
+2021,New Mexico,Tech Support,603,647749
+2021,New Mexico,Non-Payment/Non-Delivery,424,658031
+2021,Nebraska,BEC,571,42969326
+2021,Nebraska,Phishing,860,1569490
+2021,Nebraska,Ransomware,59,1803238
+2021,Nebraska,Extortion,100,1446991
+2021,Nebraska,Tech Support,660,666120
+2021,Nebraska,Non-Payment/Non-Delivery,314,318541
+2021,West Virginia,BEC,425,19299168
+2021,West Virginia,Phishing,668,2276590
+2021,West Virginia,Ransomware,72,2913273
+2021,West Virginia,Extortion,91,758481
+2021,West Virginia,Tech Support,489,523615
+2021,West Virginia,Non-Payment/Non-Delivery,447,465281
+2021,Idaho,BEC,356,20737339
+2021,Idaho,Phishing,638,1911109
+2021,Idaho,Ransomware,57,3791176
+2021,Idaho,Extortion,118,1097016
+2021,Idaho,Tech Support,555,546074
+2021,Idaho,Non-Payment/Non-Delivery,369,366683
+2021,Hawaii,BEC,283,28066040
+2021,Hawaii,Phishing,617,1330397
+2021,Hawaii,Ransomware,44,2581775
+2021,Hawaii,Extortion,115,1720796
+2021,Hawaii,Tech Support,456,383451
+2021,Hawaii,Non-Payment/Non-Delivery,373,659440
+2021,Maine,BEC,414,24042668
+2021,Maine,Phishing,537,873978
+2021,Maine,Ransomware,65,4513956
+2021,Maine,Extortion,77,1122824
+2021,Maine,Tech Support,536,587895
+2021,Maine,Non-Payment/Non-Delivery,386,750208
+2021,New Hampshire,BEC,301,30957447
+2021,New Hampshire,Phishing,410,900171
+2021,New Hampshire,Ransomware,49,1719600
+2021,New Hampshire,Extortion,96,712152
+2021,New Hampshire,Tech Support,428,321617
+2021,New Hampshire,Non-Payment/Non-Delivery,247,324901
+2021,Rhode Island,BEC,372,33825735
+2021,Rhode Island,Phishing,521,1579727
+2021,Rhode Island,Ransomware,32,1046132
+2021,Rhode Island,Extortion,72,1004511
+2021,Rhode Island,Tech Support,407,309701
+2021,Rhode Island,Non-Payment/Non-Delivery,307,297093
+2021,Montana,BEC,239,23896133
+2021,Montana,Phishing,454,1291658
+2021,Montana,Ransomware,36,2499401
+2021,Montana,Extortion,64,498252
+2021,Montana,Tech Support,397,349612
+2021,Montana,Non-Payment/Non-Delivery,244,495296
+2021,Delaware,BEC,285,24731873
+2021,Delaware,Phishing,347,1044064
+2021,Delaware,Ransomware,44,2829272
+2021,Delaware,Extortion,60,755934
+2021,Delaware,Tech Support,304,221490
+2021,Delaware,Non-Payment/Non-Delivery,199,399327
+2021,South Dakota,BEC,167,15825650
+2021,South Dakota,Phishing,325,879399
+2021,South Dakota,Ransomware,26,1391087
+2021,South Dakota,Extortion,45,699612
+2021,South Dakota,Tech Support,331,203749
+2021,South Dakota,Non-Payment/Non-Delivery,224,470284
+2021,North Dakota,BEC,164,14305082
+2021,North Dakota,Phishing,261,796318
+2021,North Dakota,Ransomware,29,1227769
+2021,North Dakota,Extortion,58,472505
+2021,North Dakota,Tech Support,226,154798
+2021,North Dakota,Non-Payment/Non-Delivery,154,242554
+2021,Alaska,BEC,132,10322227
+2021,Alaska,Phishing,298,537837
+2021,Alaska,Ransomware,23,916071
+2021,Alaska,Extortion,51,493187
+2021,Alaska,Tech Support,252,240241
+2021,Alaska,Non-Payment/Non-Delivery,169,186427
+2021,Vermont,BEC,138,14409878
+2021,Vermont,Phishing,226,721707
+2021,Vermont,Ransomware,22,665617
+2021,Vermont,Extortion,37,517586
+2021,Vermont,Tech Support,167,86620
+2021,Vermont,Non-Payment/Non-Delivery,156,263818
+2021,Wyoming,BEC,114,5211060
+2021,Wyoming,Phishing,157,240882
+2021,Wyoming,Ransomware,18,1216592
+2021,Wyoming,Extortion,34,293400
+2021,Wyoming,Tech Support,137,96837
+2021,Wyoming,Non-Payment/Non-Delivery,77,111711
+2022,California,BEC,1514,130268341
+2022,California,Phishing,2368,6629900
+2022,California,Ransomware,193,10056855
+2022,California,Extortion,244,1950483
+2022,California,Tech Support,1768,1488918
+2022,California,Non-Payment/Non-Delivery,941,1884806
+2022,Texas,BEC,1641,161233597
+2022,Texas,Phishing,1582,4538532
+2022,Texas,Ransomware,205,6419794
+2022,Texas,Extortion,298,3824992
+2022,Texas,Tech Support,1797,1930840
+2022,Texas,Non-Payment/Non-Delivery,1245,2367467
+2022,Florida,BEC,1606,109257421
+2022,Florida,Phishing,2443,7202763
+2022,Florida,Ransomware,249,8442950
+2022,Florida,Extortion,248,3616448
+2022,Florida,Tech Support,1478,1018166
+2022,Florida,Non-Payment/Non-Delivery,1369,2038063
+2022,New York,BEC,1607,90223843
+2022,New York,Phishing,1913,5236324
+2022,New York,Ransomware,216,8795278
+2022,New York,Extortion,373,5334157
+2022,New York,Tech Support,1194,1293692
+2022,New York,Non-Payment/Non-Delivery,1328,1406363
+2022,Pennsylvania,BEC,1221,92486416
+2022,Pennsylvania,Phishing,1541,2598324
+2022,Pennsylvania,Ransomware,169,5153422
+2022,Pennsylvania,Extortion,364,5769729
+2022,Pennsylvania,Tech Support,1923,1564373
+2022,Pennsylvania,Non-Payment/Non-Delivery,918,1157926
+2022,Illinois,BEC,925,56940883
+2022,Illinois,Phishing,2291,4589788
+2022,Illinois,Ransomware,198,10824016
+2022,Illinois,Extortion,244,3979324
+2022,Illinois,Tech Support,1581,1631286
+2022,Illinois,Non-Payment/Non-Delivery,1065,2056951
+2022,Ohio,BEC,956,77620198
+2022,Ohio,Phishing,1908,6542816
+2022,Ohio,Ransomware,159,8795259
+2022,Ohio,Extortion,350,3783545
+2022,Ohio,Tech Support,1360,1464071
+2022,Ohio,Non-Payment/Non-Delivery,1395,2396686
+2022,Georgia,BEC,1487,151047221
+2022,Georgia,Phishing,2212,6383103
+2022,Georgia,Ransomware,207,11782254
+2022,Georgia,Extortion,262,3543069
+2022,Georgia,Tech Support,1652,1267749
+2022,Georgia,Non-Payment/Non-Delivery,1113,1678331
+2022,North Carolina,BEC,1283,60565182
+2022,North Carolina,Phishing,2063,5309774
+2022,North Carolina,Ransomware,132,5270659
+2022,North Carolina,Extortion,233,1776682
+2022,North Carolina,Tech Support,1528,1678903
+2022,North Carolina,Non-Payment/Non-Delivery,1216,1109791
+2022,Michigan,BEC,1137,89231310
+2022,Michigan,Phishing,1520,3469047
+2022,Michigan,Ransomware,178,6413303
+2022,Michigan,Extortion,279,3122948
+2022,Michigan,Tech Support,1059,604341
+2022,Michigan,Non-Payment/Non-Delivery,991,1511609
+2022,New Jersey,BEC,851,73871732
+2022,New Jersey,Phishing,1566,4575159
+2022,New Jersey,Ransomware,150,8562835
+2022,New Jersey,Extortion,352,4278046
+2022,New Jersey,Tech Support,1198,1309912
+2022,New Jersey,Non-Payment/Non-Delivery,940,1056244
+2022,Virginia,BEC,1015,83074112
+2022,Virginia,Phishing,1818,2743180
+2022,Virginia,Ransomware,141,8791236
+2022,Virginia,Extortion,208,2569659
+2022,Virginia,Tech Support,1071,693907
+2022,Virginia,Non-Payment/Non-Delivery,987,1259495
+2022,Washington,BEC,989,65150847
+2022,Washington,Phishing,1799,5122072
+2022,Washington,Ransomware,195,6511065
+2022,Washington,Extortion,206,1714478
+2022,Washington,Tech Support,1005,751411
+2022,Washington,Non-Payment/Non-Delivery,885,1313343
+2022,Arizona,BEC,1275,99825812
+2022,Arizona,Phishing,1307,4161449
+2022,Arizona,Ransomware,186,9185490
+2022,Arizona,Extortion,240,2892529
+2022,Arizona,Tech Support,1364,1274645
+2022,Arizona,Non-Payment/Non-Delivery,749,701837
+2022,Massachusetts,BEC,883,51647204
+2022,Massachusetts,Phishing,1862,5558137
+2022,Massachusetts,Ransomware,154,8147918
+2022,Massachusetts,Extortion,256,3175325
+2022,Massachusetts,Tech Support,1382,1146598
+2022,Massachusetts,Non-Payment/Non-Delivery,697,1174031
+2022,Tennessee,BEC,1186,85372953
+2022,Tennessee,Phishing,1847,5966882
+2022,Tennessee,Ransomware,172,10737634
+2022,Tennessee,Extortion,223,2912048
+2022,Tennessee,Tech Support,1250,765295
+2022,Tennessee,Non-Payment/Non-Delivery,658,1012488
+2022,Indiana,BEC,771,48232281
+2022,Indiana,Phishing,1916,6650391
+2022,Indiana,Ransomware,109,6695612
+2022,Indiana,Extortion,304,4102967
+2022,Indiana,Tech Support,902,843634
+2022,Indiana,Non-Payment/Non-Delivery,984,1349301
+2022,Missouri,BEC,996,69574091
+2022,Missouri,Phishing,1595,2689472
+2022,Missouri,Ransomware,121,5830726
+2022,Missouri,Extortion,242,3540871
+2022,Missouri,Tech Support,1258,1114962
+2022,Missouri,Non-Payment/Non-Delivery,1000,1541309
+2022,Maryland,BEC,864,64526022
+2022,Maryland,Phishing,1263,3354360
+2022,Maryland,Ransomware,134,8812668
+2022,Maryland,Extortion,166,2444406
+2022,Maryland,Tech Support,848,492780
+2022,Maryland,Non-Payment/Non-Delivery,1038,1186207
+2022,Wisconsin,BEC,691,43610343
+2022,Wisconsin,Phishing,1701,4778408
+2022,Wisconsin,Ransomware,121,4431141
+2022,Wisconsin,Extortion,194,2803344
+2022,Wisconsin,Tech Support,805,386959
+2022,Wisconsin,Non-Payment/Non-Delivery,622,947513
+2022,Colorado,BEC,610,57356190
+2022,Colorado,Phishing,1299,3189565
+2022,Colorado,Ransomware,97,3307417
+2022,Colorado,Extortion,258,2805523
+2022,Colorado,Tech Support,1237,1379850
+2022,Colorado,Non-Payment/Non-Delivery,778,1269994
+2022,Minnesota,BEC,754,62344340
+2022,Minnesota,Phishing,1252,2985729
+2022,Minnesota,Ransomware,151,9074771
+2022,Minnesota,Extortion,192,1962093
+2022,Minnesota,Tech Support,863,551307
+2022,Minnesota,Non-Payment/Non-Delivery,835,1532027
+2022,South Carolina,BEC,957,93354997
+2022,South Carolina,Phishing,1356,4062151
+2022,South Carolina,Ransomware,89,6068630
+2022,South Carolina,Extortion,155,2065466
+2022,South Carolina,Tech Support,1171,1301689
+2022,South Carolina,Non-Payment/Non-Delivery,567,1081137
+2022,Alabama,BEC,793,71975500
+2022,Alabama,Phishing,1428,3819510
+2022,Alabama,Ransomware,97,6590878
+2022,Alabama,Extortion,169,2029701
+2022,Alabama,Tech Support,1034,920201
+2022,Alabama,Non-Payment/Non-Delivery,557,708441
+2022,Louisiana,BEC,620,33680029
+2022,Louisiana,Phishing,1255,3977161
+2022,Louisiana,Ransomware,84,3989953
+2022,Louisiana,Extortion,158,1268367
+2022,Louisiana,Tech Support,873,449785
+2022,Louisiana,Non-Payment/Non-Delivery,733,764762
+2022,Kentucky,BEC,805,60201744
+2022,Kentucky,Phishing,1166,3429825
+2022,Kentucky,Ransomware,85,5519764
+2022,Kentucky,Extortion,141,1468670
+2022,Kentucky,Tech Support,878,821708
+2022,Kentucky,Non-Payment/Non-Delivery,492,744365
+2022,Oregon,BEC,839,56264402
+2022,Oregon,Phishing,861,2452335
+2022,Oregon,Ransomware,118,3747858
+2022,Oregon,Extortion,148,1582737
+2022,Oregon,Tech Support,682,342795
+2022,Oregon,Non-Payment/Non-Delivery,703,986479
+2022,Oklahoma,BEC,638,40957117
+2022,Oklahoma,Phishing,1117,2797059
+2022,Oklahoma,Ransomware,82,4151739
+2022,Oklahoma,Extortion,158,2451197
+2022,Oklahoma,Tech Support,718,598796
+2022,Oklahoma,Non-Payment/Non-Delivery,500,920704
+2022,Connecticut,BEC,550,44275800
+2022,Connecticut,Phishing,1193,3537157
+2022,Connecticut,Ransomware,113,3418828
+2022,Connecticut,Extortion,136,1809485
+2022,Connecticut,Tech Support,557,267881
+2022,Connecticut,Non-Payment/Non-Delivery,696,883232
+2022,Utah,BEC,790,58872168
+2022,Utah,Phishing,1273,2621935
+2022,Utah,Ransomware,78,3961648
+2022,Utah,Extortion,143,1146154
+2022,Utah,Tech Support,588,430642
+2022,Utah,Non-Payment/Non-Delivery,418,859851
+2022,Iowa,BEC,513,51588571
+2022,Iowa,Phishing,1131,2415946
+2022,Iowa,Ransomware,67,2374779
+2022,Iowa,Extortion,115,1009469
+2022,Iowa,Tech Support,675,478780
+2022,Iowa,Non-Payment/Non-Delivery,520,633364
+2022,Nevada,BEC,457,28906574
+2022,Nevada,Phishing,963,3054491
+2022,Nevada,Ransomware,65,4467840
+2022,Nevada,Extortion,105,1018248
+2022,Nevada,Tech Support,499,512445
+2022,Nevada,Non-Payment/Non-Delivery,526,765041
+2022,Arkansas,BEC,431,20989765
+2022,Arkansas,Phishing,731,2300710
+2022,Arkansas,Ransomware,87,2902457
+2022,Arkansas,Extortion,168,1244759
+2022,Arkansas,Tech Support,801,799358
+2022,Arkansas,Non-Payment/Non-Delivery,585,759248
+2022,Mississippi,BEC,506,50826639
+2022,Mississippi,Phishing,934,1456072
+2022,Mississippi,Ransomware,63,4178926
+2022,Mississippi,Extortion,125,941579
+2022,Mississippi,Tech Support,530,423624
+2022,Mississippi,Non-Payment/Non-Delivery,460,568436
+2022,Kansas,BEC,407,31155379
+2022,Kansas,Phishing,923,1420552
+2022,Kansas,Ransomware,82,4246018
+2022,Kansas,Extortion,152,1563685
+2022,Kansas,Tech Support,430,266674
+2022,Kansas,Non-Payment/Non-Delivery,513,959507
+2022,New Mexico,BEC,428,44929875
+2022,New Mexico,Phishing,575,1139825
+2022,New Mexico,Ransomware,81,2611144
+2022,New Mexico,Extortion,97,1613457
+2022,New Mexico,Tech Support,699,413231
+2022,New Mexico,Non-Payment/Non-Delivery,376,653169
+2022,Nebraska,BEC,322,21284499
+2022,Nebraska,Phishing,561,1780273
+2022,Nebraska,Ransomware,83,3516056
+2022,Nebraska,Extortion,84,1089980
+2022,Nebraska,Tech Support,522,557210
+2022,Nebraska,Non-Payment/Non-Delivery,313,348353
+2022,West Virginia,BEC,502,23250016
+2022,West Virginia,Phishing,823,1417075
+2022,West Virginia,Ransomware,57,2561786
+2022,West Virginia,Extortion,97,1011805
+2022,West Virginia,Tech Support,634,689261
+2022,West Virginia,Non-Payment/Non-Delivery,472,604509
+2022,Idaho,BEC,403,37164461
+2022,Idaho,Phishing,655,1478183
+2022,Idaho,Ransomware,51,3016815
+2022,Idaho,Extortion,122,1874806
+2022,Idaho,Tech Support,485,419781
+2022,Idaho,Non-Payment/Non-Delivery,444,740403
+2022,Hawaii,BEC,363,32568577
+2022,Hawaii,Phishing,743,2059873
+2022,Hawaii,Ransomware,64,3556102
+2022,Hawaii,Extortion,88,810741
+2022,Hawaii,Tech Support,399,2210198
+2022,Hawaii,Non-Payment/Non-Delivery,371,727702
+2022,Maine,BEC,315,21269069
+2022,Maine,Phishing,631,1768023
+2022,Maine,Ransomware,41,2540679
+2022,Maine,Extortion,61,996493
+2022,Maine,Tech Support,329,191800
+2022,Maine,Non-Payment/Non-Delivery,381,497411
+2022,New Hampshire,BEC,383,17947223
+2022,New Hampshire,Phishing,405,734754
+2022,New Hampshire,Ransomware,39,1808476
+2022,New Hampshire,Extortion,97,945414
+2022,New Hampshire,Tech Support,319,233334
+2022,New Hampshire,Non-Payment/Non-Delivery,280,373238
+2022,Rhode Island,BEC,253,20873880
+2022,Rhode Island,Phishing,354,651949
+2022,Rhode Island,Ransomware,32,1107851
+2022,Rhode Island,Extortion,70,682082
+2022,Rhode Island,Tech Support,323,338089
+2022,Rhode Island,Non-Payment/Non-Delivery,250,356922
+2022,Montana,BEC,312,15193889
+2022,Montana,Phishing,459,1301853
+2022,Montana,Ransomware,37,1982795
+2022,Montana,Extortion,78,952909
+2022,Montana,Tech Support,348,294594
+2022,Montana,Non-Payment/Non-Delivery,208,412533
+2022,Delaware,BEC,236,21954376
+2022,Delaware,Phishing,404,1372997
+2022,Delaware,Ransomware,44,3031010
+2022,Delaware,Extortion,46,365807
+2022,Delaware,Tech Support,235,207134
+2022,Delaware,Non-Payment/Non-Delivery,183,365452
+2022,South Dakota,BEC,197,15390280
+2022,South Dakota,Phishing,341,519932
+2022,South Dakota,Ransomware,33,1543863
+2022,South Dakota,Extortion,42,537335
+2022,South Dakota,Tech Support,195,163822
+2022,South Dakota,Non-Payment/Non-Delivery,166,324723
+2022,North Dakota,BEC,160,11861614
+2022,North Dakota,Phishing,218,502696
+2022,North Dakota,Ransomware,30,946539
+2022,North Dakota,Extortion,41,314600
+2022,North Dakota,Tech Support,193,95139
+2022,North Dakota,Non-Payment/Non-Delivery,148,282889
+2022,Alaska,BEC,176,10327230
+2022,Alaska,Phishing,291,917129
+2022,Alaska,Ransomware,22,738572
+2022,Alaska,Extortion,49,701340
+2022,Alaska,Tech Support,232,119705
+2022,Alaska,Non-Payment/Non-Delivery,108,162880
+2022,Vermont,BEC,161,7524639
+2022,Vermont,Phishing,255,411890
+2022,Vermont,Ransomware,14,814595
+2022,Vermont,Extortion,39,429415
+2022,Vermont,Tech Support,177,127153
+2022,Vermont,Non-Payment/Non-Delivery,98,144010
+2022,Wyoming,BEC,99,9768282
+2022,Wyoming,Phishing,192,298540
+2022,Wyoming,Ransomware,19,1303337
+2022,Wyoming,Extortion,29,266353
+2022,Wyoming,Tech Support,131,128300
+2022,Wyoming,Non-Payment/Non-Delivery,70,117379
+2023,California,BEC,906,73839573
+2023,California,Phishing,2261,6297971
+2023,California,Ransomware,175,8462986
+2023,California,Extortion,279,4216634
+2023,California,Tech Support,1168,1307733
+2023,California,Non-Payment/Non-Delivery,1353,2268724
+2023,Texas,BEC,1093,80777405
+2023,Texas,Phishing,1725,5559646
+2023,Texas,Ransomware,207,8683990
+2023,Texas,Extortion,355,5300904
+2023,Texas,Tech Support,1568,1073350
+2023,Texas,Non-Payment/Non-Delivery,810,1698539
+2023,Florida,BEC,1156,103119738
+2023,Florida,Phishing,2488,4677017
+2023,Florida,Ransomware,153,8496479
+2023,Florida,Extortion,379,4574614
+2023,Florida,Tech Support,1738,1035721
+2023,Florida,Non-Payment/Non-Delivery,859,1520622
+2023,New York,BEC,1469,145394964
+2023,New York,Phishing,1600,4781471
+2023,New York,Ransomware,207,9287530
+2023,New York,Extortion,291,3409690
+2023,New York,Tech Support,1494,785213
+2023,New York,Non-Payment/Non-Delivery,1070,1837015
+2023,Pennsylvania,BEC,1107,106553605
+2023,Pennsylvania,Phishing,1545,5367922
+2023,Pennsylvania,Ransomware,223,9512140
+2023,Pennsylvania,Extortion,337,3502522
+2023,Pennsylvania,Tech Support,1249,603287
+2023,Pennsylvania,Non-Payment/Non-Delivery,1205,1917799
+2023,Illinois,BEC,1327,66724851
+2023,Illinois,Phishing,1966,4635928
+2023,Illinois,Ransomware,122,4633141
+2023,Illinois,Extortion,206,2979942
+2023,Illinois,Tech Support,992,874030
+2023,Illinois,Non-Payment/Non-Delivery,1141,1454216
+2023,Ohio,BEC,1120,61623756
+2023,Ohio,Phishing,1582,3815550
+2023,Ohio,Ransomware,170,11138223
+2023,Ohio,Extortion,254,2704797
+2023,Ohio,Tech Support,1685,1243817
+2023,Ohio,Non-Payment/Non-Delivery,1136,1310294
+2023,Georgia,BEC,1097,73494049
+2023,Georgia,Phishing,1288,2590912
+2023,Georgia,Ransomware,121,6833934
+2023,Georgia,Extortion,198,1645693
+2023,Georgia,Tech Support,1030,807122
+2023,Georgia,Non-Payment/Non-Delivery,1094,996815
+2023,North Carolina,BEC,826,50550067
+2023,North Carolina,Phishing,1357,4474359
+2023,North Carolina,Ransomware,171,5909845
+2023,North Carolina,Extortion,221,3241717
+2023,North Carolina,Tech Support,1632,1518085
+2023,North Carolina,Non-Payment/Non-Delivery,710,1414623
+2023,Michigan,BEC,1035,46745029
+2023,Michigan,Phishing,2064,5466102
+2023,Michigan,Ransomware,197,9942238
+2023,Michigan,Extortion,202,2703897
+2023,Michigan,Tech Support,1599,1242642
+2023,Michigan,Non-Payment/Non-Delivery,767,1474709
+2023,New Jersey,BEC,1126,100565775
+2023,New Jersey,Phishing,1879,2854848
+2023,New Jersey,Ransomware,166,7353981
+2023,New Jersey,Extortion,273,2209206
+2023,New Jersey,Tech Support,1005,739840
+2023,New Jersey,Non-Payment/Non-Delivery,1097,2107124
+2023,Virginia,BEC,1084,59627288
+2023,Virginia,Phishing,1806,3284736
+2023,Virginia,Ransomware,157,8282964
+2023,Virginia,Extortion,265,2820275
+2023,Virginia,Tech Support,1326,1253677
+2023,Virginia,Non-Payment/Non-Delivery,891,922652
+2023,Washington,BEC,722,60863455
+2023,Washington,Phishing,1890,5736258
+2023,Washington,Ransomware,151,9803787
+2023,Washington,Extortion,270,2190867
+2023,Washington,Tech Support,1003,907489
+2023,Washington,Non-Payment/Non-Delivery,702,1102149
+2023,Arizona,BEC,710,71754222
+2023,Arizona,Phishing,1497,4848530
+2023,Arizona,Ransomware,142,6139482
+2023,Arizona,Extortion,239,3196827
+2023,Arizona,Tech Support,969,740588
+2023,Arizona,Non-Payment/Non-Delivery,655,940895
+2023,Massachusetts,BEC,927,42703318
+2023,Massachusetts,Phishing,1091,1636870
+2023,Massachusetts,Ransomware,147,8158724
+2023,Massachusetts,Extortion,240,3275076
+2023,Massachusetts,Tech Support,1027,1029687
+2023,Massachusetts,Non-Payment/Non-Delivery,755,1241000
+2023,Tennessee,BEC,986,71141820
+2023,Tennessee,Phishing,1579,3446505
+2023,Tennessee,Ransomware,171,8876203
+2023,Tennessee,Extortion,175,2087269
+2023,Tennessee,Tech Support,1236,677890
+2023,Tennessee,Non-Payment/Non-Delivery,669,917517
+2023,Indiana,BEC,1023,66777361
+2023,Indiana,Phishing,1044,3314629
+2023,Indiana,Ransomware,152,7340918
+2023,Indiana,Extortion,220,1593161
+2023,Indiana,Tech Support,1089,1107341
+2023,Indiana,Non-Payment/Non-Delivery,797,1378954
+2023,Missouri,BEC,1012,69063266
+2023,Missouri,Phishing,1672,5455370
+2023,Missouri,Ransomware,136,8227318
+2023,Missouri,Extortion,271,3129323
+2023,Missouri,Tech Support,978,1024278
+2023,Missouri,Non-Payment/Non-Delivery,923,1784019
+2023,Maryland,BEC,1041,60420216
+2023,Maryland,Phishing,1498,3281499
+2023,Maryland,Ransomware,159,10972141
+2023,Maryland,Extortion,213,2192805
+2023,Maryland,Tech Support,916,781344
+2023,Maryland,Non-Payment/Non-Delivery,840,1509851
+2023,Wisconsin,BEC,711,50014002
+2023,Wisconsin,Phishing,1005,1799606
+2023,Wisconsin,Ransomware,100,6142128
+2023,Wisconsin,Extortion,223,3402548
+2023,Wisconsin,Tech Support,858,709008
+2023,Wisconsin,Non-Payment/Non-Delivery,709,1376624
+2023,Colorado,BEC,950,79635808
+2023,Colorado,Phishing,1266,3921616
+2023,Colorado,Ransomware,129,5869781
+2023,Colorado,Extortion,250,4117999
+2023,Colorado,Tech Support,1075,942946
+2023,Colorado,Non-Payment/Non-Delivery,857,1003254
+2023,Minnesota,BEC,854,77121718
+2023,Minnesota,Phishing,1293,3814128
+2023,Minnesota,Ransomware,111,3660642
+2023,Minnesota,Extortion,216,2337358
+2023,Minnesota,Tech Support,945,550929
+2023,Minnesota,Non-Payment/Non-Delivery,492,861800
+2023,South Carolina,BEC,593,47922002
+2023,South Carolina,Phishing,1268,3580553
+2023,South Carolina,Ransomware,115,3785251
+2023,South Carolina,Extortion,187,2280992
+2023,South Carolina,Tech Support,714,588123
+2023,South Carolina,Non-Payment/Non-Delivery,559,948064
+2023,Alabama,BEC,631,51803103
+2023,Alabama,Phishing,1185,4102785
+2023,Alabama,Ransomware,117,4634828
+2023,Alabama,Extortion,221,3625595
+2023,Alabama,Tech Support,771,836374
+2023,Alabama,Non-Payment/Non-Delivery,659,612637
+2023,Louisiana,BEC,799,74442034
+2023,Louisiana,Phishing,818,1541950
+2023,Louisiana,Ransomware,130,8952469
+2023,Louisiana,Extortion,176,1377821
+2023,Louisiana,Tech Support,960,881912
+2023,Louisiana,Non-Payment/Non-Delivery,518,903024
+2023,Kentucky,BEC,773,72666066
+2023,Kentucky,Phishing,1183,2861026
+2023,Kentucky,Ransomware,76,2821096
+2023,Kentucky,Extortion,126,1182560
+2023,Kentucky,Tech Support,750,554135
+2023,Kentucky,Non-Payment/Non-Delivery,563,868034
+2023,Oregon,BEC,688,61752858
+2023,Oregon,Phishing,1237,4151490
+2023,Oregon,Ransomware,112,6077414
+2023,Oregon,Extortion,200,2198617
+2023,Oregon,Tech Support,762,472984
+2023,Oregon,Non-Payment/Non-Delivery,678,1054201
+2023,Oklahoma,BEC,494,48520031
+2023,Oklahoma,Phishing,1202,2700005
+2023,Oklahoma,Ransomware,96,3422875
+2023,Oklahoma,Extortion,161,1989422
+2023,Oklahoma,Tech Support,662,631889
+2023,Oklahoma,Non-Payment/Non-Delivery,467,897457
+2023,Connecticut,BEC,489,46496517
+2023,Connecticut,Phishing,782,2060245
+2023,Connecticut,Ransomware,102,4941962
+2023,Connecticut,Extortion,131,1258464
+2023,Connecticut,Tech Support,750,531426
+2023,Connecticut,Non-Payment/Non-Delivery,456,749399
+2023,Utah,BEC,514,33256193
+2023,Utah,Phishing,1019,2681094
+2023,Utah,Ransomware,77,2829409
+2023,Utah,Extortion,166,2374171
+2023,Utah,Tech Support,822,752073
+2023,Utah,Non-Payment/Non-Delivery,510,678549
+2023,Iowa,BEC,566,47392932
+2023,Iowa,Phishing,770,1370602
+2023,Iowa,Ransomware,71,2347153
+2023,Iowa,Extortion,99,1313097
+2023,Iowa,Tech Support,690,591760
+2023,Iowa,Non-Payment/Non-Delivery,509,1004146
+2023,Nevada,BEC,572,38294895
+2023,Nevada,Phishing,973,3127541
+2023,Nevada,Ransomware,79,3623841
+2023,Nevada,Extortion,143,2352979
+2023,Nevada,Tech Support,698,564715
+2023,Nevada,Non-Payment/Non-Delivery,387,654531
+2023,Arkansas,BEC,570,57769793
+2023,Arkansas,Phishing,924,1502167
+2023,Arkansas,Ransomware,55,2789347
+2023,Arkansas,Extortion,117,1832559
+2023,Arkansas,Tech Support,654,608475
+2023,Arkansas,Non-Payment/Non-Delivery,537,961386
+2023,Mississippi,BEC,498,41941818
+2023,Mississippi,Phishing,834,1380832
+2023,Mississippi,Ransomware,91,4609593
+2023,Mississippi,Extortion,145,2147379
+2023,Mississippi,Tech Support,413,314514
+2023,Mississippi,Non-Payment/Non-Delivery,434,500758
+2023,Kansas,BEC,419,39393250
+2023,Kansas,Phishing,693,2037774
+2023,Kansas,Ransomware,67,3593319
+2023,Kansas,Extortion,108,822332
+2023,Kansas,Tech Support,440,355560
+2023,Kansas,Non-Payment/Non-Delivery,327,395641
+2023,New Mexico,BEC,545,56219268
+2023,New Mexico,Phishing,840,2371731
+2023,New Mexico,Ransomware,49,2658790
+2023,New Mexico,Extortion,106,1608177
+2023,New Mexico,Tech Support,605,587572
+2023,New Mexico,Non-Payment/Non-Delivery,391,691688
+2023,Nebraska,BEC,397,19504837
+2023,Nebraska,Phishing,516,982823
+2023,Nebraska,Ransomware,61,3846694
+2023,Nebraska,Extortion,83,1075531
+2023,Nebraska,Tech Support,498,276494
+2023,Nebraska,Non-Payment/Non-Delivery,289,5142024
+2023,West Virginia,BEC,423,32284482
+2023,West Virginia,Phishing,454,1070492
+2023,West Virginia,Ransomware,57,2579219
+2023,West Virginia,Extortion,109,1660836
+2023,West Virginia,Tech Support,441,346348
+2023,West Virginia,Non-Payment/Non-Delivery,417,674685
+2023,Idaho,BEC,311,27227717
+2023,Idaho,Phishing,603,1531332
+2023,Idaho,Ransomware,45,1918623
+2023,Idaho,Extortion,72,923007
+2023,Idaho,Tech Support,442,315593
+2023,Idaho,Non-Payment/Non-Delivery,358,409706
+2023,Hawaii,BEC,348,23390046
+2023,Hawaii,Phishing,463,1229404
+2023,Hawaii,Ransomware,47,3017397
+2023,Hawaii,Extortion,96,1412913
+2023,Hawaii,Tech Support,312,229744
+2023,Hawaii,Non-Payment/Non-Delivery,312,537100
+2023,Maine,BEC,293,13278009
+2023,Maine,Phishing,400,948301
+2023,Maine,Ransomware,39,2120085
+2023,Maine,Extortion,97,1270124
+2023,Maine,Tech Support,421,217562
+2023,Maine,Non-Payment/Non-Delivery,229,326729
+2023,New Hampshire,BEC,316,24044186
+2023,New Hampshire,Phishing,539,1364547
+2023,New Hampshire,Ransomware,35,1553635
+2023,New Hampshire,Extortion,92,1542788
+2023,New Hampshire,Tech Support,318,235157
+2023,New Hampshire,Non-Payment/Non-Delivery,188,184680
+2023,Rhode Island,BEC,233,18301411
+2023,Rhode Island,Phishing,389,798623
+2023,Rhode Island,Ransomware,32,1695880
+2023,Rhode Island,Extortion,63,791459
+2023,Rhode Island,Tech Support,290,288226
+2023,Rhode Island,Non-Payment/Non-Delivery,291,538951
+2023,Montana,BEC,234,18436887
+2023,Montana,Phishing,445,1075875
+2023,Montana,Ransomware,38,1872594
+2023,Montana,Extortion,56,937680
+2023,Montana,Tech Support,246,183012
+2023,Montana,Non-Payment/Non-Delivery,222,421491
+2023,Delaware,BEC,168,15107784
+2023,Delaware,Phishing,361,885573
+2023,Delaware,Ransomware,40,1492455
+2023,Delaware,Extortion,68,815346
+2023,Delaware,Tech Support,298,193658
+2023,Delaware,Non-Payment/Non-Delivery,234,384302
+2023,South Dakota,BEC,151,12917857
+2023,South Dakota,Phishing,333,1070321
+2023,South Dakota,Ransomware,35,1918934
+2023,South Dakota,Extortion,62,963491
+2023,South Dakota,Tech Support,299,197151
+2023,South Dakota,Non-Payment/Non-Delivery,183,280151
+2023,North Dakota,BEC,214,16081781
+2023,North Dakota,Phishing,304,733975
+2023,North Dakota,Ransomware,26,1496778
+2023,North Dakota,Extortion,35,285851
+2023,North Dakota,Tech Support,248,206107
+2023,North Dakota,Non-Payment/Non-Delivery,152,199380
+2023,Alaska,BEC,141,12273028
+2023,Alaska,Phishing,284,682014
+2023,Alaska,Ransomware,28,1095994
+2023,Alaska,Extortion,32,401000
+2023,Alaska,Tech Support,146,159702
+2023,Alaska,Non-Payment/Non-Delivery,156,219308
+2023,Vermont,BEC,152,11555103
+2023,Vermont,Phishing,231,462450
+2023,Vermont,Ransomware,13,749082
+2023,Vermont,Extortion,36,549148
+2023,Vermont,Tech Support,170,120872
+2023,Vermont,Non-Payment/Non-Delivery,139,182502
+2023,Wyoming,BEC,92,9456403
+2023,Wyoming,Phishing,168,432915
+2023,Wyoming,Ransomware,13,740060
+2023,Wyoming,Extortion,28,304031
+2023,Wyoming,Tech Support,130,134639
+2023,Wyoming,Non-Payment/Non-Delivery,112,185643
+2024,California,BEC,1480,73625139
+2024,California,Phishing,1765,3675987
+2024,California,Ransomware,200,13101534
+2024,California,Extortion,386,4954089
+2024,California,Tech Support,1408,1445587
+2024,California,Non-Payment/Non-Delivery,942,1910870
+2024,Texas,BEC,920,63316916
+2024,Texas,Phishing,2422,6289613
+2024,Texas,Ransomware,171,11942733
+2024,Texas,Extortion,323,4356105
+2024,Texas,Tech Support,1295,1232917
+2024,Texas,Non-Payment/Non-Delivery,857,1633631
+2024,Florida,BEC,1299,129791329
+2024,Florida,Phishing,1865,4813878
+2024,Florida,Ransomware,172,8870298
+2024,Florida,Extortion,289,3844905
+2024,Florida,Tech Support,1445,1187243
+2024,Florida,Non-Payment/Non-Delivery,1058,1973856
+2024,New York,BEC,1075,58418781
+2024,New York,Phishing,1889,6037041
+2024,New York,Ransomware,171,9834346
+2024,New York,Extortion,333,2426795
+2024,New York,Tech Support,1232,1219595
+2024,New York,Non-Payment/Non-Delivery,862,1227942
+2024,Pennsylvania,BEC,1282,87667513
+2024,Pennsylvania,Phishing,1579,4343270
+2024,Pennsylvania,Ransomware,200,12460599
+2024,Pennsylvania,Extortion,250,3076666
+2024,Pennsylvania,Tech Support,1126,671929
+2024,Pennsylvania,Non-Payment/Non-Delivery,1108,1599199
+2024,Illinois,BEC,1113,51380224
+2024,Illinois,Phishing,1825,6286514
+2024,Illinois,Ransomware,131,7740041
+2024,Illinois,Extortion,223,2070556
+2024,Illinois,Tech Support,1561,1746285
+2024,Illinois,Non-Payment/Non-Delivery,1174,1169618
+2024,Ohio,BEC,874,80005238
+2024,Ohio,Phishing,1723,5671078
+2024,Ohio,Ransomware,153,5336404
+2024,Ohio,Extortion,234,3874977
+2024,Ohio,Tech Support,1686,1306539
+2024,Ohio,Non-Payment/Non-Delivery,998,1464455
+2024,Georgia,BEC,957,52172468
+2024,Georgia,Phishing,1955,4969321
+2024,Georgia,Ransomware,173,7684152
+2024,Georgia,Extortion,293,2773324
+2024,Georgia,Tech Support,930,610734
+2024,Georgia,Non-Payment/Non-Delivery,1124,2318364
+2024,North Carolina,BEC,1163,93938693
+2024,North Carolina,Phishing,1285,3212292
+2024,North Carolina,Ransomware,142,7810751
+2024,North Carolina,Extortion,284,3507113
+2024,North Carolina,Tech Support,1250,1385340
+2024,North Carolina,Non-Payment/Non-Delivery,1082,2131707
+2024,Michigan,BEC,745,49535087
+2024,Michigan,Phishing,2015,5870202
+2024,Michigan,Ransomware,157,5901792
+2024,Michigan,Extortion,234,2737001
+2024,Michigan,Tech Support,1300,1085360
+2024,Michigan,Non-Payment/Non-Delivery,741,1395526
+2024,New Jersey,BEC,976,81282806
+2024,New Jersey,Phishing,1316,3605141
+2024,New Jersey,Ransomware,160,9414422
+2024,New Jersey,Extortion,256,2309823
+2024,New Jersey,Tech Support,1386,1209070
+2024,New Jersey,Non-Payment/Non-Delivery,975,990119
+2024,Virginia,BEC,724,40340069
+2024,Virginia,Phishing,1215,2062471
+2024,Virginia,Ransomware,175,8679367
+2024,Virginia,Extortion,257,2754268
+2024,Virginia,Tech Support,887,798015
+2024,Virginia,Non-Payment/Non-Delivery,1049,1952423
+2024,Washington,BEC,988,93189731
+2024,Washington,Phishing,1144,2324186
+2024,Washington,Ransomware,108,3576680
+2024,Washington,Extortion,241,3412957
+2024,Washington,Tech Support,944,849978
+2024,Washington,Non-Payment/Non-Delivery,1081,1944754
+2024,Arizona,BEC,722,57466737
+2024,Arizona,Phishing,1666,5440569
+2024,Arizona,Ransomware,114,5721399
+2024,Arizona,Extortion,237,2714341
+2024,Arizona,Tech Support,1001,1021727
+2024,Arizona,Non-Payment/Non-Delivery,904,1601021
+2024,Massachusetts,BEC,943,63656068
+2024,Massachusetts,Phishing,1659,5679260
+2024,Massachusetts,Ransomware,128,4017474
+2024,Massachusetts,Extortion,164,2744827
+2024,Massachusetts,Tech Support,967,597109
+2024,Massachusetts,Non-Payment/Non-Delivery,946,1784917
+2024,Tennessee,BEC,892,89695369
+2024,Tennessee,Phishing,1044,1891951
+2024,Tennessee,Ransomware,162,6369802
+2024,Tennessee,Extortion,170,2152713
+2024,Tennessee,Tech Support,807,796879
+2024,Tennessee,Non-Payment/Non-Delivery,946,1649272
+2024,Indiana,BEC,664,41847667
+2024,Indiana,Phishing,1442,4412871
+2024,Indiana,Ransomware,117,5542544
+2024,Indiana,Extortion,169,1584626
+2024,Indiana,Tech Support,1097,971599
+2024,Indiana,Non-Payment/Non-Delivery,579,549713
+2024,Missouri,BEC,672,58374032
+2024,Missouri,Phishing,1478,5087394
+2024,Missouri,Ransomware,131,5093728
+2024,Missouri,Extortion,197,2054161
+2024,Missouri,Tech Support,1150,845804
+2024,Missouri,Non-Payment/Non-Delivery,757,1315245
+2024,Maryland,BEC,808,60011506
+2024,Maryland,Phishing,1080,3773690
+2024,Maryland,Ransomware,104,6351371
+2024,Maryland,Extortion,253,2094912
+2024,Maryland,Tech Support,905,620171
+2024,Maryland,Non-Payment/Non-Delivery,535,590161
+2024,Wisconsin,BEC,940,67240649
+2024,Wisconsin,Phishing,940,1848960
+2024,Wisconsin,Ransomware,95,6090503
+2024,Wisconsin,Extortion,148,2382297
+2024,Wisconsin,Tech Support,1127,788554
+2024,Wisconsin,Non-Payment/Non-Delivery,635,588834
+2024,Colorado,BEC,787,61217151
+2024,Colorado,Phishing,1268,3753086
+2024,Colorado,Ransomware,128,5768226
+2024,Colorado,Extortion,195,1722838
+2024,Colorado,Tech Support,1078,704602
+2024,Colorado,Non-Payment/Non-Delivery,870,1188745
+2024,Minnesota,BEC,898,59818607
+2024,Minnesota,Phishing,1054,2395790
+2024,Minnesota,Ransomware,112,3806224
+2024,Minnesota,Extortion,226,1818169
+2024,Minnesota,Tech Support,1136,1218773
+2024,Minnesota,Non-Payment/Non-Delivery,575,727899
+2024,South Carolina,BEC,825,54290605
+2024,South Carolina,Phishing,1242,4337050
+2024,South Carolina,Ransomware,94,5172979
+2024,South Carolina,Extortion,221,3692351
+2024,South Carolina,Tech Support,1092,630185
+2024,South Carolina,Non-Payment/Non-Delivery,710,1260865
+2024,Alabama,BEC,772,63714299
+2024,Alabama,Phishing,955,2247048
+2024,Alabama,Ransomware,111,5737517
+2024,Alabama,Extortion,139,1913594
+2024,Alabama,Tech Support,667,621168
+2024,Alabama,Non-Payment/Non-Delivery,499,536017
+2024,Louisiana,BEC,840,41217827
+2024,Louisiana,Phishing,1221,2607073
+2024,Louisiana,Ransomware,114,4873214
+2024,Louisiana,Extortion,214,2450908
+2024,Louisiana,Tech Support,997,653263
+2024,Louisiana,Non-Payment/Non-Delivery,473,440570
+2024,Kentucky,BEC,698,55157764
+2024,Kentucky,Phishing,887,1376773
+2024,Kentucky,Ransomware,113,5660507
+2024,Kentucky,Extortion,183,1640809
+2024,Kentucky,Tech Support,774,467253
+2024,Kentucky,Non-Payment/Non-Delivery,678,1363133
+2024,Oregon,BEC,531,55380435
+2024,Oregon,Phishing,760,2458036
+2024,Oregon,Ransomware,85,5567795
+2024,Oregon,Extortion,182,2595171
+2024,Oregon,Tech Support,677,731870
+2024,Oregon,Non-Payment/Non-Delivery,580,1131544
+2024,Oklahoma,BEC,616,44607039
+2024,Oklahoma,Phishing,1184,3004287
+2024,Oklahoma,Ransomware,103,4686079
+2024,Oklahoma,Extortion,192,1919101
+2024,Oklahoma,Tech Support,649,430277
+2024,Oklahoma,Non-Payment/Non-Delivery,483,834596
+2024,Connecticut,BEC,573,41314380
+2024,Connecticut,Phishing,729,1947082
+2024,Connecticut,Ransomware,90,4188813
+2024,Connecticut,Extortion,119,1881095
+2024,Connecticut,Tech Support,856,547885
+2024,Connecticut,Non-Payment/Non-Delivery,649,711818
+2024,Utah,BEC,431,31016443
+2024,Utah,Phishing,912,2693817
+2024,Utah,Ransomware,89,4018095
+2024,Utah,Extortion,162,2045852
+2024,Utah,Tech Support,540,309176
+2024,Utah,Non-Payment/Non-Delivery,376,478054
+2024,Iowa,BEC,522,29149399
+2024,Iowa,Phishing,1089,2989436
+2024,Iowa,Ransomware,78,3895763
+2024,Iowa,Extortion,143,1356159
+2024,Iowa,Tech Support,638,486666
+2024,Iowa,Non-Payment/Non-Delivery,348,429339
+2024,Nevada,BEC,610,29240428
+2024,Nevada,Phishing,898,1608092
+2024,Nevada,Ransomware,80,3355012
+2024,Nevada,Extortion,95,1590286
+2024,Nevada,Tech Support,543,500954
+2024,Nevada,Non-Payment/Non-Delivery,540,1112158
+2024,Arkansas,BEC,453,22916172
+2024,Arkansas,Phishing,729,2289445
+2024,Arkansas,Ransomware,88,3670771
+2024,Arkansas,Extortion,136,1409014
+2024,Arkansas,Tech Support,493,429755
+2024,Arkansas,Non-Payment/Non-Delivery,501,768902
+2024,Mississippi,BEC,529,53446721
+2024,Mississippi,Phishing,660,2109093
+2024,Mississippi,Ransomware,73,3223251
+2024,Mississippi,Extortion,121,1718220
+2024,Mississippi,Tech Support,662,416359
+2024,Mississippi,Non-Payment/Non-Delivery,348,323216
+2024,Kansas,BEC,349,20046507
+2024,Kansas,Phishing,679,1471789
+2024,Kansas,Ransomware,72,4004980
+2024,Kansas,Extortion,95,964688
+2024,Kansas,Tech Support,481,265923
+2024,Kansas,Non-Payment/Non-Delivery,378,619614
+2024,New Mexico,BEC,344,32690154
+2024,New Mexico,Phishing,669,2070226
+2024,New Mexico,Ransomware,62,3002332
+2024,New Mexico,Extortion,129,1899692
+2024,New Mexico,Tech Support,578,470195
+2024,New Mexico,Non-Payment/Non-Delivery,419,646543
+2024,Nebraska,BEC,442,44187264
+2024,Nebraska,Phishing,481,991302
+2024,Nebraska,Ransomware,76,3904190
+2024,Nebraska,Extortion,106,1368867
+2024,Nebraska,Tech Support,549,564923
+2024,Nebraska,Non-Payment/Non-Delivery,313,468393
+2024,West Virginia,BEC,366,21216431
+2024,West Virginia,Phishing,469,738576
+2024,West Virginia,Ransomware,43,1332887
+2024,West Virginia,Extortion,94,983720
+2024,West Virginia,Tech Support,549,536011
+2024,West Virginia,Non-Payment/Non-Delivery,411,854357
+2024,Idaho,BEC,453,40078829
+2024,Idaho,Phishing,635,1099611
+2024,Idaho,Ransomware,39,2097088
+2024,Idaho,Extortion,86,704321
+2024,Idaho,Tech Support,484,411224
+2024,Idaho,Non-Payment/Non-Delivery,389,443719
+2024,Hawaii,BEC,336,24012890
+2024,Hawaii,Phishing,422,729604
+2024,Hawaii,Ransomware,51,1951417
+2024,Hawaii,Extortion,74,1202904
+2024,Hawaii,Tech Support,413,217070
+2024,Hawaii,Non-Payment/Non-Delivery,270,259435
+2024,Maine,BEC,378,19412422
+2024,Maine,Phishing,471,1370306
+2024,Maine,Ransomware,49,2840756
+2024,Maine,Extortion,68,618950
+2024,Maine,Tech Support,434,478769
+2024,Maine,Non-Payment/Non-Delivery,271,274116
+2024,New Hampshire,BEC,316,22857875
+2024,New Hampshire,Phishing,509,1242515
+2024,New Hampshire,Ransomware,33,1330629
+2024,New Hampshire,Extortion,58,601526
+2024,New Hampshire,Tech Support,306,152806
+2024,New Hampshire,Non-Payment/Non-Delivery,234,448091
+2024,Rhode Island,BEC,238,12529186
+2024,Rhode Island,Phishing,493,844983
+2024,Rhode Island,Ransomware,29,1487984
+2024,Rhode Island,Extortion,62,591444
+2024,Rhode Island,Tech Support,310,216397
+2024,Rhode Island,Non-Payment/Non-Delivery,247,512832
+2024,Montana,BEC,216,12780559
+2024,Montana,Phishing,288,762732
+2024,Montana,Ransomware,37,1591559
+2024,Montana,Extortion,57,933459
+2024,Montana,Tech Support,221,190435
+2024,Montana,Non-Payment/Non-Delivery,192,324901
+2024,Delaware,BEC,253,25096426
+2024,Delaware,Phishing,245,691331
+2024,Delaware,Ransomware,28,1487283
+2024,Delaware,Extortion,59,594570
+2024,Delaware,Tech Support,284,266785
+2024,Delaware,Non-Payment/Non-Delivery,247,224706
+2024,South Dakota,BEC,181,17403206
+2024,South Dakota,Phishing,376,564634
+2024,South Dakota,Ransomware,36,2320196
+2024,South Dakota,Extortion,40,514622
+2024,South Dakota,Tech Support,257,186119
+2024,South Dakota,Non-Payment/Non-Delivery,188,200573
+2024,North Dakota,BEC,201,19174950
+2024,North Dakota,Phishing,345,604128
+2024,North Dakota,Ransomware,27,1589046
+2024,North Dakota,Extortion,40,320510
+2024,North Dakota,Tech Support,192,201963
+2024,North Dakota,Non-Payment/Non-Delivery,188,209762
+2024,Alaska,BEC,149,10144349
+2024,Alaska,Phishing,222,589604
+2024,Alaska,Ransomware,18,733860
+2024,Alaska,Extortion,37,613868
+2024,Alaska,Tech Support,194,165166
+2024,Alaska,Non-Payment/Non-Delivery,99,175977
+2024,Vermont,BEC,155,9573609
+2024,Vermont,Phishing,197,330347
+2024,Vermont,Ransomware,20,662465
+2024,Vermont,Extortion,35,457981
+2024,Vermont,Tech Support,149,116231
+2024,Vermont,Non-Payment/Non-Delivery,107,138866
+2024,Wyoming,BEC,125,7794063
+2024,Wyoming,Phishing,196,413195
+2024,Wyoming,Ransomware,12,587117
+2024,Wyoming,Extortion,18,269377
+2024,Wyoming,Tech Support,104,58361
+2024,Wyoming,Non-Payment/Non-Delivery,103,109081
