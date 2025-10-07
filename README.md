@@ -1,4 +1,5 @@
 📊 Fraud & Cybercrime Reports Analysis (2020–2024)
+
 🧠 Overview
 
 This project presents a data-driven analysis of U.S. fraud and cybercrime trends (2020–2024) using datasets from the Federal Trade Commission (FTC) and the Federal Bureau of Investigation (FBI Internet Crime Complaint Center – IC3).
