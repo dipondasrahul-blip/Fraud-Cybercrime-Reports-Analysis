@@ -76,6 +76,7 @@ Fraud & Cybercrime.pdf	Exported project summary
 (2020–2024) CSN_State_Fraud_Reports_and_Losses.csv	State-wise fraud data
 (2020–2024) ic3_simulated_all50states.csv	Simulated IC3 dataset
 2024_CSN_Report_Count.csv	Yearly FTC report count
+
 🧩 Usage
 
 You can download the .pbix file to explore the dashboard interactively in Power BI Desktop, or view the summarized visual insights in the attached PDF.
