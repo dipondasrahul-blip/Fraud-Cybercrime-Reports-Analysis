@@ -59,14 +59,13 @@ Identified top 10 states and categories contributing to national loss.
 
 Designed a clean, interactive Power BI report for public and academic use.
 
-👨‍💻 Author
+### 👨‍💻 Author  
+**Dipon Das Rahul**  
+🎓 MBA in Business Analytics (STEM), Midwestern State University  
+📍 Texas, USA  
+📧 [dipondasrahul@gmail.com](mailto:dipondasrahul@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dipondasrahul)
 
-Dipon Das Rahul
-MBA in Business Analytics (STEM), Midwestern State University
-📍 Texas, USA
-📧 dipondasrahul@gmail.com
-
-🔗 LinkedIn
 
 📂 Files Included
 File	Description
