@@ -1,90 +1,74 @@
-📊 Fraud & Cybercrime Reports Analysis (2020–2024)
+# 🧠 Fraud & Cybercrime Reports Analysis (FTC + FBI Data)
 
-🧠 Overview
+📅 **Period:** 2020–2024  
+🧰 **Tech Stack:** Power BI | Python | Pandas | Matplotlib | SQL  
 
-This project presents a data-driven analysis of U.S. fraud and cybercrime trends (2020–2024) using datasets from the Federal Trade Commission (FTC) and the Federal Bureau of Investigation (FBI Internet Crime Complaint Center – IC3).
-It highlights the financial and behavioral impact of different crime types across U.S. states, offering insights into loss distribution, complaint patterns, and emerging cyber risks.
+---
 
-🧾 Data Sources
+## 🎯 Objective
+This project explores nationwide patterns of **fraud and cybercrime in the United States** using datasets from the **Federal Trade Commission (FTC)** and the **Federal Bureau of Investigation (FBI – Internet Crime Complaint Center, IC3)**.  
+The goal is to provide **data-driven insights** that support fraud prevention, consumer protection, and national financial security.
 
-FTC Consumer Sentinel Network (CSN) Reports (2020–2024)
+---
 
-FBI Internet Crime Complaint Center (IC3) Annual Data (2020–2024)
+## 📊 Datasets Used
+- **[FTC Consumer Sentinel Network](https://www.ftc.gov/enforcement/consumer-sentinel-network)**  
+  Contains consumer-reported data on fraud, identity theft, and scams across all U.S. states.  
+- **[FBI Internet Crime Complaint Center (IC3)](https://www.ic3.gov/Home/AnnualReports)**  
+  Includes annual cybercrime complaint data, reported losses, and crime categories across regions and industries.
 
-Simulated multi-state loss data for visualization and trend modeling
+---
 
-🧰 Tools & Technologies
+## 🧩 Methodology
+1. **Data Preparation** – Cleaned, merged, and standardized multi-year FTC and FBI datasets.  
+2. **Exploratory Data Analysis** – Identified fraud loss trends, complaint volumes, and category breakdowns.  
+3. **Visualization** – Built Power BI dashboards highlighting fraud hotspots, cybercrime growth, and state-wise distribution.  
+4. **Correlation Analysis** – Compared fraud losses with population and income data to identify vulnerable regions.
 
-Power BI: Interactive dashboard design
+---
 
-Python (Pandas, Matplotlib): Data preprocessing and trend validation
+## 💡 Key Insights
+- Over **$10 billion** in fraud and cybercrime losses reported between 2020–2024.  
+- **Investment scams** and **imposter frauds** accounted for the largest total losses.  
+- **California, Florida, and Texas** were the top three states in total reports and dollar losses.  
+- Post-pandemic years (**2022–2024**) showed a significant rise in **online payment fraud** and **identity theft cases**.
 
-Excel: Data cleaning and structuring
+---
 
-GitHub: Version control and documentation
+## 📈 Dashboard Preview
 
-📈 Key Insights
-Fraud Reports Dashboard
+<div align="center">
 
-Total Reports: 9 million
+### 💳 Cybercrime Complaints Analysis (2020–2024)  
+<img width="100%" alt="Cybercrime Complaints Analysis (2020-2024)" src="https://github.com/user-attachments/assets/edb8d414-eab3-4b50-9614-b39ca52f5893" />
 
-Total Fraud Losses: $30 billion
+*Figure 1: Nationwide analysis of cybercrime complaints and loss distribution.*
 
-Top States: California, Florida, Texas
+---
 
-Most Common Categories:
-Identity Theft, Imposter Scams, Credit Bureau Misuse
+### 🧾 Fraud Reports Analysis (2020–2024)  
+<img width="100%" alt="Fraud Reports Analysis 2020-2024" src="https://github.com/user-attachments/assets/1b6ceb2c-686c-4df7-8929-7585a33c27bd" />
 
-Cybercrime Complaints Dashboard
+*Figure 2: Top fraud categories and U.S. state-level complaint trends.*
 
-Total Complaints: 890K
+</div>
 
-Total Losses: $16 billion
+---
 
-Top Crime Types: Phishing, Business Email Compromise (BEC), Tech Support Scams
+## 🏁 Outcome
+Developed a comprehensive **fraud and cybercrime analytics dashboard** integrating official FTC and FBI datasets.  
+This project enhances understanding of fraud patterns, supports early warning systems, and contributes to **U.S. consumer protection and cybercrime prevention efforts**.
 
-Top States by Cybercrime Loss: California, Florida, Texas, New York
+---
 
-🧩 Dashboard Previews
-Fraud Reports Analysis
-
-Cybercrime Complaints Analysis
-
-💡 Project Highlights
-
-Visualized year-over-year financial impact of cyber and fraud crimes.
-
-Compared complaints vs. losses to identify discrepancies in reporting vs. monetary harm.
-
-Identified top 10 states and categories contributing to national loss.
-
-Designed a clean, interactive Power BI report for public and academic use.
-
-#### 👨‍💻 Author  
+## 👨‍💻 Author
 **Dipon Das Rahul**  
 🎓 MBA in Business Analytics (STEM), Midwestern State University  
 📍 Texas, USA  
 📧 [dipondasrahul@gmail.com](mailto:dipondasrahul@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/diponrahul/)
+🔗 [LinkedIn](https://www.linkedin.com/in/diponrahul) | [GitHub](https://github.com/dipondasrahul-blip)
 
+---
 
-📂 Files Included
-File	Description
-Fraud & Cybercrime Reports Analysis.pbix	Power BI dashboard file
-Fraud & Cybercrime.pdf	Exported project summary
-(2020–2024) CSN_Report_Categories.csv	FTC category-level data
-(2020–2024) CSN_State_Fraud_Reports_and_Losses.csv	State-wise fraud data
-(2020–2024) ic3_simulated_all50states.csv	Simulated IC3 dataset
-2024_CSN_Report_Count.csv	Yearly FTC report count
-
-🧩 Usage
-
-You can download the .pbix file to explore the dashboard interactively in Power BI Desktop, or view the summarized visual insights in the attached PDF.
-
-⭐ Future Enhancements
-
-Integration of 2025 FTC/IC3 reports.
-
-Predictive modeling for loss estimation.
-
-Comparative analysis of fraud vs. cybercrime recovery rates.
+## 🧾 Tags
+`#AI` `#DataAnalytics` `#PowerBI` `#Python` `#FraudDetection` `#Cybercrime` `#FTC` `#FBI` `#FinancialSecurity`
